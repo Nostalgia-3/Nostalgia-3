@@ -1,16 +1,18 @@
-### Hi there 👋
+# Nostalgia3
 
-<!--
-**Nostalgia-3/Nostalgia-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pretty radical programmer who programs in JS/TS and C#, and love low-level programming (such as my custom cpu architecture vm, which is currently not on GitHub) and working with bytes (such as my [NodeJS Minecraft Server](https://github.com/Nostalgia-3/nodejs-mc-server)).
 
-Here are some ideas to get you started:
+## More Information
+* 🧑‍🎓 I'm in high school
+* I'm currently working on a
+  * 🧰 cpu with a custom architecture (`stupid-vm`)
+  * 💻 a custom Minecraft server for 1.12.2 (`nodejs-mc-server`)
+  * 💾 a hacked client for 1v1.LOL with [WaterWolf5918](https://github.com/WaterWolf5918) (`fusion-ice`)
+* How to reach me
+  * Discord (`nostalgia3`)
+  * You can also not! ❤️
+* Pronouns: `he/him`
+* Fun Fact: I have friends 🤪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+More on this page is coming when I want to. 😜
