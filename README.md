@@ -6,8 +6,8 @@ I'm a pretty radical programmer who programs in JS/TS and C#, and love low-level
 * 🧑‍🎓 I'm in high school
 * I'm currently working on a
   * 🧰 cpu with a custom architecture (`stupid-vm`)
-  * 💻 a custom Minecraft server for 1.12.2 (`nodejs-mc-server`)
-  * 💾 a hacked client for 1v1.LOL with [WaterWolf5918](https://github.com/WaterWolf5918) (`fusion-ice`)
+  * 💻 custom Minecraft server for 1.12.2 (`nodejs-mc-server`)
+  * 💾 hacked client for 1v1.LOL with [WaterWolf5918](https://github.com/WaterWolf5918) (`fusion-ice`)
 * How to reach me
   * Discord (`nostalgia3`)
   * You can also not! ❤️
