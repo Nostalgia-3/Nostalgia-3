@@ -7,7 +7,7 @@ I'm a pretty radical programmer who programs in JS/TS and C#, and love low-level
 * I'm currently working on a
   * 🧰 cpu with a custom architecture (`stupid-vm`)
   * 💻 custom Minecraft server for 1.12.2 (`nodejs-mc-server`)
-  * 💾 hacked client for 1v1.LOL with [WaterWolf5918](https://github.com/WaterWolf5918) (`fusion-ice`)
+  * 🔤 command-line text editor similar to vim (`atyp`)
 * How to reach me
   * Discord (`nostalgia3`)
   * You can also not! ❤️
